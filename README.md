@@ -48,7 +48,7 @@ and can run live on a webcam during online video calls.
 ![Training Curves](results/Training_Curves.png)
 
 ### Class-wise Performance
-![Class Performance](results/class-wise_performance.png)
+![Class Performance](results/Class-wise_Performance.png)
 
 ## 🚀 How to Run
 

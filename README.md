@@ -82,4 +82,10 @@ python src/live_video_detection.py
 - Scikit-learn
 - Matplotlib / Seaborn
 
-## 📁 Project Structure
+## 👤 Author
+**Mir Fawad Ul Haq**
+- GitHub: [@fawadulhaq12](https://github.com/fawadulhaq12)
+- LinkedIn: [Mir Fawad Ul Haq](https://www.linkedin.com/in/fawad-data/)
+
+## 📜 License
+MIT License — free to use and modify

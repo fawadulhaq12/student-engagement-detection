@@ -39,7 +39,7 @@ and can run live on a webcam during online video calls.
 | Macro F1 Score | **0.9823** |
 | Training Epochs | 100 |
 
-> Replace these numbers with your actual results after training
+
 
 ### Confusion Matrix
 ![Confusion Matrix](results/confusion_matrix_combined.png)

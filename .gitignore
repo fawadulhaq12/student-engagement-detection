@@ -1,0 +1,23 @@
+# Dataset — too large for GitHub
+raw_dataset/
+dataset/
+*.zip
+
+# Model files — too large (use Google Drive link instead)
+*.h5
+*.keras
+*.tflite
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment
+venv/
+.env
